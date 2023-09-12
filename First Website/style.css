@@ -1,0 +1,97 @@
+h1{
+    text-align:center; 
+    font-size: 60px;
+    margin: 50px auto 10px;
+    font-family: 'Outfit', sans-serif;
+
+}
+.desc{
+    text-align:center;
+    font-size: 30px;
+    font-family: 'Outfit', sans-serif;
+}
+.home-vespa{
+    max-width:900px;
+    max-height: 600px;
+    display:block;
+    margin:100px auto;
+}
+button{
+    border-radius:40px;
+    font-family: 'Outfit', sans-serif;
+    width: 400px;
+    height:100px;
+    font-size:20px;
+    background:none;
+}
+[class^="button"]{
+    width: 400px;
+    display: inline-block;
+}
+.button-right{
+    float:right;
+}
+.bAlign{
+    max-width: 1000px;
+    margin: 150px auto;
+}
+button:active{
+    background: lightgray;
+}
+.timeline{
+    text-align:center;
+    margin: 20px auto;
+}
+.top-row{
+    margin: 100px auto 0px;
+    max-width:1300px;
+    display:flex;
+    justify-content: space-between;
+}
+.bottom-row{
+    margin: 10px auto;
+    max-width:1000px;
+    display:flex;
+    justify-content: space-between;
+}
+.year{
+    max-width: 200px;
+    font-family: 'Outfit', sans-serif;
+}
+.vMod{
+    width:150px; 
+    height:100px; 
+    margin:0px auto; 
+    display:block;
+}
+.vMod2{
+    width:100px; 
+    height:100px; 
+    margin:0px auto; 
+    display:block;
+}
+.line{
+    width: 1000px; 
+    border: solid black 2px; 
+    margin: 0px auto;
+}
+.gal{
+    margin: 10px auto 10px;
+    text-align:center;
+    font-size: 70px;
+}
+.images{
+    max-width:1210px;
+    margin: 40px auto;
+}
+.tHistory{
+    font-family: 'Outfit', sans-serif;
+    font-size: 30px;
+    margin: 70px auto;
+    text-align:center;
+    max-width: 800px;
+}
+.galVesp{
+    height: 300px;
+    width:400px; 
+}
