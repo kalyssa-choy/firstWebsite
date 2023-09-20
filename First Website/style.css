@@ -95,6 +95,11 @@ button:active{
     height: 300px;
     width:400px; 
 }
+@media(max-width: 1224px){
+    .images{
+        max-width: 805px;
+    }
+}
 @media (max-width: 1000px){
     .line{
         width: 90%;
