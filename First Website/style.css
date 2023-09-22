@@ -127,7 +127,7 @@ button:active{
         margin: 80px auto 10%;
     }
 }
-@media (max-width: 830px){
+@media (max-width: 839px){
     .home-vespa{
         max-width: 90%;
         max-height: 90%;
